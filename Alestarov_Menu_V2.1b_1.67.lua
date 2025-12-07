@@ -12,11 +12,11 @@
 --
 --
 ----------------------------------------------------------
-Almenu = gui.get_tab("Al_Menu v3 1.68")
+Almenu = gui.get_tab("Al_Menu v3 1.71")
 
-gui.show_message("Alestarov_Menu_V3b_1.68","is Successfully launched!")
+gui.show_message("Alestarov_Menu_V3b_1.71","is Successfully launched!")
 
-	Almenu:add_text("         Alestarov_Menu_V3_1.68 ")
+	Almenu:add_text("         Alestarov_Menu_V3_1.71 ")
 ------------------------------------
 
 function run_script(name) --start script thread
@@ -690,3 +690,4 @@ SLON = AlmenuCredits:add_tab("SLON")
 SLON:add_text("The code from the script ''YimCeo v0.5 by Slon.lua'' was implemented")
 SLON:add_text("Script on unknowncheats.me:")
 SLON:add_text("https://www.unknowncheats.me/forum/grand-theft-auto-v/591335-yimceo-ceo-crates-method-yimmenu.html")
+
